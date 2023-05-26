@@ -1,13 +1,13 @@
-Análise de dados de qualidade do ar
+Análise de dados de temperatura da superfície da Terra
 
 Contextualização
 
 Colocar introdução sobre crise climática.
-Como a crise climática é um assunto que está no centro das principais discussões em diversos países, esse mini projeto teve por objetivo analisar dados da qualidade do ar de diversos países. Os dados foram fornecidos peolo portal OpenAQ, a limpeza e a análise exploratória foi feita utilizando SQL, e a análise de dados foi realizada no Power BI.
+Como a crise climática é um assunto que está no centro das principais discussões em diversos países, esse mini projeto teve por objetivo analisar dados da qualidade do ar de diversos países. Os dados foram coletados do Kaggle, que por sua vez foram retirados do portal Berkeley Earth. A limpeza e a análise exploratória foi feita utilizando SQL, e a análise de dados foi realizada no Power BI.
 
 Fonte de dados
 
-O dataset foi extraído do portal OpenAQ, que se trata de uma organização sem fins lucrativos que fornece conjuntos de dados relacionados à qualidade do ar de diversos países ao redor do mundo [1]. Para este projeto, foi escolhido 
+Os dados têm sua origem no portal Berkeley Earth, que se trata de uma organização dos Estados Unidos sem fins lucrativos que possui foco em ciência de dados e análise de dados ambientais [1]. Para este projeto, foi escolhido 
 
 Limpeza de dados e análise exploratória
 
@@ -18,5 +18,5 @@ Análise de dados
 
 Referências
 
-[1] https://openaq.org/
+[1] https://berkeleyearth.org/
 [2]
