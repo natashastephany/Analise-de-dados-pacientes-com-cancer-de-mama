@@ -7,10 +7,16 @@ Como a crise climática é um assunto que está no centro das principais discuss
 
 Fonte de dados
 
-
+O dataset foi extraído do portal OpenAQ, que se trata de uma organização sem fins lucrativos que fornece conjuntos de dados relacionados à qualidade do ar de diversos países ao redor do mundo [1]. Para este projeto, foi escolhido 
 
 Limpeza de dados e análise exploratória
 
 
 
 Análise de dados
+
+
+Referências
+
+[1] https://openaq.org/
+[2]
