@@ -20,4 +20,7 @@ a tabela "BD Completo SEEG Mun 2.0".
 2.2 Dicionários de dados
 
 setor - Setor em que foi feita a emissão dos gases de efeito estufa (Mudança de Uso da Terra, Energia, Agropecuária, Processos Industriais e Resíduo)
+nível 1, 
 tipo_emissao - Emissão, Bunker, Remoção
+
+Obs: Algumas informações do dicionário de dados foram fornecidas pelo próprio documento, e outras informações foram deduzidas pela autora deste projeto.
