@@ -1,5 +1,4 @@
 # Análise de dados de câncer de mama
-# <font color='pink'>Análise de dados de câncer de mama</font>
 
 ## Objetivo do projeto
 
@@ -39,3 +38,12 @@ Este projeto foi dividido em quatro etapas:
 4) Análise dos dados - esta etapa final se destinou a responder as perguntas feitas no início do projeto. Para isto, alguns gráficos foram gerados.
    
 Este projeto foi inteiramente realizado utilizando-se a linguagem Python, com o interpretador Jupyter Notebook. Todas as etapas estão descritas no arquivo do Jupyter Notebook "Projeto1".
+
+## Conclusão
+
+Todas as perguntas do proejto foram respondidas, porém, em alguns casos, não foi possível chegar a uma conclusão em absoluto, sendo necessária uma análise mais profunda. As seguintes conclusões foram extraídas da análise:
+
+1) Há uma sugestão de relação entre os níveis de expressão de proteínas, a idade e o status do paciente?
+2) Há uma sugestão de relação entre o estágio do câncer e a situação do paciente?
+3) Há uma sugestão de relação entre o tipo de cirurgia e a situação do paciente?
+4) Há uma sugestão de relação entre a idade do paciente e a situação do paciente?
