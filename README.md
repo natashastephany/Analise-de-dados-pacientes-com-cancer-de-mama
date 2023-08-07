@@ -15,8 +15,8 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 
 #### Dicionário de dados
 
-Age - idade do paciente;
-Gender - gênero do paciente;
+* Age - idade do paciente;
+* Gender - gênero do paciente;
 Protein1, Protein2, Protein3, Protein4 - níveis de expressão de 4 tipos de proteína diferentes;
 Tumour_Stage - estágio do tumor (1, 2 ou 3)
 Histology - histologia ()
