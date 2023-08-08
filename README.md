@@ -1,4 +1,4 @@
-# Análise de dados de câncer de mama
+# Análise de dados de pacientes com câncer de mama
 
 ## Objetivo do projeto
 
