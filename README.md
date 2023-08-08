@@ -3,7 +3,7 @@
 ## Objetivo do projeto
 
 O intuito do projeto foi explorar os dados de pacientes com câncer de mama, de modo a extrair informações. Para isto, foram elaboradas 4 perguntas norteadoras:
-
+ 
 1) Há uma sugestão de relação entre os níveis de expressão de proteínas, a idade e o status do paciente?
 2) Há uma sugestão de relação entre o estágio do câncer e a situação do paciente?
 3) Há uma sugestão de relação entre o tipo de cirurgia e a situação do paciente?
