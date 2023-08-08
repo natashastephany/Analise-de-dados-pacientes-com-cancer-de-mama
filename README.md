@@ -41,9 +41,20 @@ Este projeto foi inteiramente realizado utilizando-se a linguagem Python, com o 
 
 ## Conclusão
 
-Todas as perguntas do proejto foram respondidas, porém, em alguns casos, não foi possível chegar a uma conclusão em absoluto, sendo necessária uma análise mais profunda. As seguintes conclusões foram extraídas da análise:
+As seguintes conclusões foram extraídas da análise:
 
 1) Há uma sugestão de relação entre os níveis de expressão de proteínas, a idade e o status do paciente?
+
+Não foi observado nenhum padrão entre o nível de expressão das proteínas e a idade ou em relação ao status do paciente. Aparentemente os pontos encontram-se dispersos de maneira aleatória.
+
 2) Há uma sugestão de relação entre o estágio do câncer e a situação do paciente?
+
+Uma análise em termos percentuais mostrou que a maior taxa de pessoas que sobreviveram possuíam tumor de nível 1 (84%). Para este conjunto de dados, o percentual de pacientes vivos diminuiu conforme o nível do tumor aumentou. 
+
 3) Há uma sugestão de relação entre o tipo de cirurgia e a situação do paciente?
+
+O maior percentual de pacientes que sobreviveram realizaram a cirurgia mastectomia. Todavia, não há uma grande diferença entre os percentuais dos demais tipos de cirurgia. 
+
 4) Há uma sugestão de relação entre a idade do paciente e a situação do paciente?
+
+A análise dos dados não sugeriu uma relação direta entre idade do paciente e status do paciente, visto que o percentual de pacientes que sobreviveram oscilou ao longo das faixas etárias observadas. 
