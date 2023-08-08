@@ -29,7 +29,7 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 * Patient_Status - status do paciente (vivo ou morto).
 
 ## Etapas do projeto
-
+ 
 Este projeto foi dividido em quatro etapas:
 
 1) Exploração inicial dos dados - nesta etapa foi feita uma breve exploração dos dados, apenas para visualizar como os dados estavam apresentados na tabela.
