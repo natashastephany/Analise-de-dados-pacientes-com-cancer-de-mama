@@ -11,22 +11,24 @@ O intuito do projeto foi explorar os dados de pacientes com câncer de mama, de 
 
 ## Fonte de dados 
 
-Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://www.kaggle.com/datasets/kellistephenson/increasing-breast-cancer-awareness?resource=download), que por sua vez foram extraídos do site BioGPS (http://biogps.org/dataset/tag/brca1/). O conjunto de dados escolhido possui o título de "Increasing Breast Cancer Awareness" (Aumentando a conscientização sobre o câncer de mama), e trata-se de dados de pacientes com câncer de mama. O dataset possui 334 linhas e 15 colunas, cuja variáveis encontram-se descritas no dicionário de dados abaixo.
+Os dados foram extraídos da Base de Dados [Kaggle](https://www.kaggle.com/datasets/kellistephenson/increasing-breast-cancer-awareness?resource=download), que por sua vez foram extraídos do site [BioGPS](http://biogps.org/dataset/tag/brca1/). O conjunto de dados escolhido possui o título de "Increasing Breast Cancer Awareness" (Aumentando a conscientização sobre o câncer de mama), e trata-se de dados de pacientes com câncer de mama. O dataset possui 334 linhas e 15 colunas, cuja variáveis encontram-se descritas no dicionário de dados abaixo.
 
 #### Dicionário de dados
 
-* Age - idade do paciente;
-* Gender - gênero do paciente;
-* Protein1, Protein2, Protein3, Protein4 - níveis de expressão de 4 tipos de proteína diferentes;
-* Tumour_Stage - estágio do tumor (1, 2 ou 3);
-* Histology - histologia (Carcinoma Ductal Invasivo, Carcinoma Lobular Invasivo, Carcinoma Mucinoso);
-* ER status - status de receptores de estrogênio (ER) positivo ou negativo;
-* PR status - status de receptores de progesterona (PR) - positivo ou negativo;
-* HER2 status - status da proteína HER2 (positivo ou negativo);
-* Surgery_type - tipo de cirurgia (Lumpectomia, Mastectomia Radical Modificada, Mastectomia Simples, Outros);
-* Date_of_Surgery - data da cirurgia;
-* Date_of_Last_Visit - data da última visita ao paciente;
-* Patient_Status - status do paciente (vivo ou morto).
+| Variável | Significado |
+|----------|-------------|
+| Age | Idade do paciente|
+| Gender | Gênero do paciente |
+| Protein1, Protein2, Protein3, Protein4 | Níveis de expressão de 4 tipos de proteína diferentes |
+| Tumour_Stage | Estágio do tumor (1, 2 ou 3)|
+| Histology | Histologia (Carcinoma Ductal Invasivo, Carcinoma Lobular Invasivo, Carcinoma Mucinoso) |
+| ER status | Status de receptores de estrogênio (ER) positivo ou negativo |
+| PR status | Status de receptores de progesterona (PR) - positivo ou negativo |
+| HER2 status | Status da proteína HER2 (positivo ou negativo) |
+| Surgery_type | Tipo de cirurgia (Lumpectomia, Mastectomia Radical Modificada, Mastectomia Simples, Outros) |
+| Date_of_Surgery | Data da cirurgia |
+| Date_of_Last_Visit | Data da última visita ao paciente |
+| Patient_Status | Status do paciente (vivo ou morto) |
 
 ## Etapas do projeto
  
